@@ -9,4 +9,9 @@ function countNumberOfNinesInNumber(number) {
   }
 
   return count;
+  
+
 }
+
+
+console.log(countNumberOfNinesInNumber("99944959"));
